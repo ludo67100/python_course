@@ -13,7 +13,7 @@ print (data)
 
 
 #Let's check the identity of our data 
-print type(data)
+print (type(data))
 
 
 
